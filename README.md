@@ -41,9 +41,8 @@ Installation -- not completed
 
 Run - completed 
 [commands]
-
 Project Documentation --https://drive.google.com/drive/folders/1Nc-EBUBKAg2wyQPPargh11v6CEaOoaAB
-
+Screenshots are added in drive along with video presentation.
 
 Team Contributions
 
